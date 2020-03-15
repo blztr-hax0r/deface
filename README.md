@@ -12,6 +12,7 @@ Thanks You to use my reposit
        - pkg install git
        - pkg install python2
        - pkg install curl
+       - git clone https://github.com/blztr-hax0r/deface
    
   
   
